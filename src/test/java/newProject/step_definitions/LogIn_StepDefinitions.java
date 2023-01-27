@@ -15,7 +15,7 @@ public class LogIn_StepDefinitions {
 
     LogInPage logInPage = new LogInPage();
     WebDriverWait webDriverWait = new WebDriverWait(Driver.getDriver(),10);
-//    String username = "actumdigital";
+//    String username = "trive";
 //    String password = "123456";
 
     @When("user clicks on log in button")
