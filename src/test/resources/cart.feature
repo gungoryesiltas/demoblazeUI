@@ -22,3 +22,5 @@ Feature: As a user I should be able place an order in demoblaze website
     And user clicks on yearBox and type card year
     And user clicks purchase button
     Then user verifies the purchase and clicks on Ok button
+
+
